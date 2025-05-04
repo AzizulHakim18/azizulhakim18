@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **azizulhakimrony18@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1sr36WFVQ3ChquhJGcI74aPq0ir31h8ij/view?usp=drive_link/1tq4Z_qzTts9MGs8VidOITa7pi4jq1Sg7](https://drive.google.com/file/d/1vlOSP4MBA-c1NebKCJlCe0Jjs_esyCKf/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vlOSP4MBA-c1NebKCJlCe0Jjs_esyCKf/view?usp=sharing)
 
 - ⚡ Fun fact **Web developers are often referred to as "unicorns" in the tech industry because they possess a unique combination of skills, including proficiency in programming languages like HTML, CSS, and JavaScript, along with design and problem-solving abilities, making them versatile and rare in the job market.**
 
